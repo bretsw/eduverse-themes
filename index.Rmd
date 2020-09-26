@@ -17,5 +17,5 @@ description: "A brief reporting of thematic results from interviews with nine ne
 knitr::include_graphics('images/edu-verse.jpg', dpi = NA)
 ```
 
- ![Creative Commons License](images/by-nc-sa.png)  
-This book is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)) by K. Bret Staudt Willet.
+![Creative Commons License](images/by-nc-sa.png)  
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)) by K. Bret Staudt Willet.
