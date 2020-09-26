@@ -1,9 +1,5 @@
 # Author Note {-}
 
-```{r fig.align='center', echo=FALSE}
-knitr::include_graphics('images/bret-pic.jpg', dpi = NA)
-```
-
 ![Bret Staudt Willet](images/bret-pic.jpg)  
 
 K. Bret Staudt Willet is a PhD candidate in Educational Psychology & Educational Technology at Michigan State University, researching teacher networks and social media. Connect with him through his website, http://bretsw.com, or on Twitter: @bretsw.
