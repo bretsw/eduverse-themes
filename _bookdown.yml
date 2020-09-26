@@ -1,0 +1,6 @@
+book_filename: "eduverse-themes"
+chapter_name: ""
+repo: https://github.com/bretsw/eduverse-themes
+output_dir: docs
+new_session: no
+delete_merged_file: true

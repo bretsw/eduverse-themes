@@ -1,0 +1,21 @@
+--- 
+title: "Into the Edu-verse: New Teachers Seeking Induction Support on Social Media"
+subtitle: 
+author: "K. Bret Staudt Willet"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: book
+site: bookdown::bookdown_site
+github-repo: bretsw/eduverse-themes
+cover-image: images/edu-verse.jpg
+description: "A brief reporting of thematic results from interviews with nine new teachers."
+---
+
+# Abbreviated Findings {-}
+
+```{r fig.align='center', echo=FALSE}
+knitr::include_graphics('images/edu-verse.jpg', dpi = NA)
+```
+
+ ![Creative Commons License](images/by-nc-sa.png)  
+This book is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)) by K. Bret Staudt Willet.

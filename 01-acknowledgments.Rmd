@@ -1,0 +1,13 @@
+# Acknowledgments {-}
+
+**Thanks**
+
+This research was guided by my dissertation co-chairs, Matthew Koehler and Christine Greenhow, and committee members, Ralph Putnam and Gail Richmond. Their wisdom and expertise have significantly shaped my ideas. I am also deeply grateful for my colleague Paul Reimer, who served as a second coder to test and improve inter-rater reliability.
+
+**Land Acknowledgment**
+
+I have learned from the faculty at Michigan State University in East Lansing MI, built on the traditional land of the Peoria, Anishinabewaki, Odawa, and Sauk Peoples, and I have lived and completed my graduate school work in Lancaster County PA, on the traditional land of the Susquehannock People. This acknowledgment demonstrates a commitment to continue the process of working to dismantle the ongoing legacies of settler colonialism.
+
+**Attribution**
+
+This online version was created with the [**bookdown**](https://CRAN.R-project.org/package=bookdown/) R package (Xie, 2020a) in R, which in turn was built on top of R Markdown and the [**knitr**](https://CRAN.R-project.org/package=knitr/) package (Xie, 2020b).

@@ -1,0 +1,33 @@
+# Social Media as Modalities for Accessing Induction Supports
+
+I approached the fourth research question, “How, if at all, do new teachers use social media as a modality to access supports for professional learning during induction?,” by coding each mention of an induction support with the modality through which it was accessed. I coded these in broad terms: offline, online graduate school (because each of the interview participants was enrolled in such a degree program), and social media. I focus my attention here on offline and social media modalities.
+
+## Offline Modalities
+
+New teachers mentioned numerous offline modalities, including face-to-face staff meetings, district professional development, teachers lounge conversations, local gatherings of teacher organizations, and many others ways of connecting without the use of the Internet. New teachers often linked experiences in these modalities to their in-school connections (e.g., administrators, colleagues) and assigned supports (e.g., mentor teachers, PLCs). Induction challenges like enacting practice and conflict were often discussed in conjunction to an offline setting.
+
+## Social Media Modalities
+
+New teachers also mentioned numerous social media modalities. These included a variety of social media types, including social networking sites like Facebook, Twitter, and LinkedIn; content sharing sites like Instagram, Pinterest, and TeachersPayTeachers; and group messengers like Slack, Microsoft Teams, and email listservs. New teachers often linked social media modalities to their out-of-school connections, self-directed supports, and latent supports. Induction challenges like planning and maintaining personal-professional boundaries were often discussed alongside social media modalities.
+
+Only one new teacher I interviewed was familiar with their school’s official social media policy, and then only because a teacher had been fired recently for violating it. This means that for the most part, schools and districts were not providing guidance to teachers regarding using social media at all, let alone as a means for new teachers to access induction supports.
+
+## Ways of Engaging
+
+I interpreted new teachers’ ways of using various modalities to access induction supports through Prestridge’s (2019) social media engagement categories: info-consumer, info-networker, self-seeking contributor, and vocationalist. Because the new teachers I interviewed rarely talked about seeking induction supports in ways that could be interpreted as information networking or self-seeking contributions, I dropped these codes. Here I only report results for consumer and vocationalist.
+
+New teachers engaged their support networks as *consumers* when they sought induction supports for self-interested reasons, whether searching by browsing or by asking. I used the term “consumer” rather than Prestridge’s (2019) “info-consumer” because new teachers were looking for more than just information. Sometimes their induction supports were material goods and physical resources. *Browsing* involved following district curriculum, looking up resources on TeachersPayTeachers.com, watching YouTube videos, and scrolling through Pinterest. *Asking* involved seeking out a mentor teacher for advice, posting on social media about resources needed, and venting or personal sharing in hopes of receiving emotional encouragement.
+
+Engaging as a consumer was not a passive form of participation. Indeed, some processes of browsing for resources could be quite sophisticated, and some asking conversations could be quite extensive. For instance, to save time, Mike developed a system that would allow him to skim resources more quickly:
+
+>I have a Pinterest for the sole purpose of teaching. So, again, I don't engage with it, I don't go on and search for things. I have it set up where it sends me one email a day with about 10 different math activities or blog posts, whatever you want to call it, over the courses I teach.
+
+Hallie also wanted to save time, and she hated meetings without a purpose. Thus her preference for her weekly mentor meeting was to check in for five minutes, then get back to her planning period while her mentor made copies. But when it came time to work through her educator effectiveness plan, Hallie asked her mentor teacher to walk through the process step-by-step. Because she had never developed professional goals before, Hallie found this specific mentoring conversation to be just what she needed.
+
+On the other hand, new teachers engaged their support networks as *vocationalists* when they sought induction supports by participating as a member of a learning community. Engaging as vocationalist took various forms: both formal and informal, harmonious and conflictual. The key characteristic is that vocationalists participate in interaction and dialogue for mutual benefit, such as contributing ideas to a group, giving advice on social media, and conversing with colleagues to determine best practices.
+
+Taylor exemplified the vocationalist mindset. Throughout her interview, it was clear that she identified as a member of the PE department team and benefited from this association. She described how they were a tight-knit group:
+
+>We're able to bounce ideas off of one another. But there's definitely that, you know, if we have someone telling us something about the PE department, it's like the whole PE department versus everyone else. We have that group mentality.
+
+Taylor’s vocationalist engagement with the PE department meant that she felt connected and encouraged. She had trusted colleagues with whom to discuss ideas. Furthermore, when she searched YouTube or PE teacher blogs to look for ideas and resources, it was not just for her own benefit. Rather, she looked for things to bring back to the group that would benefit the whole team.
