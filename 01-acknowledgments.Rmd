@@ -10,4 +10,4 @@ I have learned from the faculty at Michigan State University in East Lansing MI,
 
 **Attribution**
 
-This online version was created with the [**bookdown**](https://CRAN.R-project.org/package=bookdown/) R package (Xie, 2020a) in R, which in turn was built on top of R Markdown and the [**knitr**](https://CRAN.R-project.org/package=knitr/) package (Xie, 2020b).
+This online version was created with the [**{bookdown}**](https://CRAN.R-project.org/package=bookdown/) R package (Xie, 2020a) in R, which in turn was built on top of R Markdown and the [**{knitr}**](https://CRAN.R-project.org/package=knitr/) package (Xie, 2020b).
